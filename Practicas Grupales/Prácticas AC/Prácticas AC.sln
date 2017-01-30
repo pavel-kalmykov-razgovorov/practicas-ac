@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "[Toy Benchmark] Guess Fibonacci and Parity", "[Toy Benchmark] Guess Fibonacci and Parity\[Toy Benchmark] Guess Fibonacci and Parity.vcxproj", "{E5751815-64ED-4DC8-8035-722228BE5803}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "[Vectorization] Images Editor", "[Vectorization] Images Editor\[Vectorization] Images Editor.vcxproj", "{34E84E36-397E-4A37-8AA4-E1E353B420A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5751815-64ED-4DC8-8035-722228BE5803}.Debug|x64.ActiveCfg = Debug|x64
+		{E5751815-64ED-4DC8-8035-722228BE5803}.Debug|x64.Build.0 = Debug|x64
+		{E5751815-64ED-4DC8-8035-722228BE5803}.Debug|x86.ActiveCfg = Debug|Win32
+		{E5751815-64ED-4DC8-8035-722228BE5803}.Debug|x86.Build.0 = Debug|Win32
+		{E5751815-64ED-4DC8-8035-722228BE5803}.Release|x64.ActiveCfg = Release|x64
+		{E5751815-64ED-4DC8-8035-722228BE5803}.Release|x64.Build.0 = Release|x64
+		{E5751815-64ED-4DC8-8035-722228BE5803}.Release|x86.ActiveCfg = Release|Win32
+		{E5751815-64ED-4DC8-8035-722228BE5803}.Release|x86.Build.0 = Release|Win32
+		{34E84E36-397E-4A37-8AA4-E1E353B420A6}.Debug|x64.ActiveCfg = Debug|x64
+		{34E84E36-397E-4A37-8AA4-E1E353B420A6}.Debug|x64.Build.0 = Debug|x64
+		{34E84E36-397E-4A37-8AA4-E1E353B420A6}.Debug|x86.ActiveCfg = Debug|Win32
+		{34E84E36-397E-4A37-8AA4-E1E353B420A6}.Debug|x86.Build.0 = Debug|Win32
+		{34E84E36-397E-4A37-8AA4-E1E353B420A6}.Release|x64.ActiveCfg = Release|x64
+		{34E84E36-397E-4A37-8AA4-E1E353B420A6}.Release|x64.Build.0 = Release|x64
+		{34E84E36-397E-4A37-8AA4-E1E353B420A6}.Release|x86.ActiveCfg = Release|Win32
+		{34E84E36-397E-4A37-8AA4-E1E353B420A6}.Release|x86.Build.0 = Release|Win32
+		{3B973078-5ECB-44AC-A5FE-4C87F09D9278}.Debug|x64.ActiveCfg = Debug|x64
+		{3B973078-5ECB-44AC-A5FE-4C87F09D9278}.Debug|x64.Build.0 = Debug|x64
+		{3B973078-5ECB-44AC-A5FE-4C87F09D9278}.Debug|x86.ActiveCfg = Debug|Win32
+		{3B973078-5ECB-44AC-A5FE-4C87F09D9278}.Debug|x86.Build.0 = Debug|Win32
+		{3B973078-5ECB-44AC-A5FE-4C87F09D9278}.Release|x64.ActiveCfg = Release|x64
+		{3B973078-5ECB-44AC-A5FE-4C87F09D9278}.Release|x64.Build.0 = Release|x64
+		{3B973078-5ECB-44AC-A5FE-4C87F09D9278}.Release|x86.ActiveCfg = Release|Win32
+		{3B973078-5ECB-44AC-A5FE-4C87F09D9278}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
